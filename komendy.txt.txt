@@ -1,0 +1,3 @@
+autoprefixer-cli -o style.prefixed.css style.css
+
+niestety tej nie moge odnalezc: nu-html-checker ma wyœwietlaæ listê b³êdów we wszystkich plikach .html,
